@@ -1,4 +1,5 @@
 {
+  "package_version": "1.73.0-alpha-20190410070232-g3ec730d",
   "docsets_to_publish": [
     {
       "docset_name": "dotnet-api-docs",
